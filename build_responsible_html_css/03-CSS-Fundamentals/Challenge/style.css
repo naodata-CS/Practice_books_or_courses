@@ -1,0 +1,68 @@
+* {
+    font-style: sans-serif;
+}
+
+body {
+    border: black solid 5px
+}
+
+.title {
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: gainsboro;
+    justify-content: center;
+    text-align: center;
+}
+
+.details {
+    font-weight: bold;
+    color: #000;
+    text-transform: uppercase;
+}
+
+.price {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.free {
+    color: gray;
+    text-transform: uppercase;
+}
+
+ul {
+    font-weight: bold;
+    list-style: square;
+}
+
+.link {
+    color: black;
+    text-decoration: underline;
+}
+
+.link:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.link:visited {
+    color: black;
+    text-decoration: underline;
+}
+
+.button {
+    border: none;
+    background-color: black;
+    font-size: 22px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.button:hover {
+    border: none;
+    background-color: gainsboro;
+    font-size: 22px;
+    color: #000;
+    text-transform: uppercase;
+}
