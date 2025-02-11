@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "build_responsible_html_css/03-CSS-Fundamentals/CSS Fundamentals.md",
+                "file": "Fundamentos_de_programacion/1. Teoria_basica/TEORIA BASICA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS Fundamentals"
+              "title": "TEORIA BASICA"
             }
           }
         ]
@@ -167,6 +167,10 @@
   },
   "active": "083b202ad77044d5",
   "lastOpenFiles": [
+    "build_responsible_html_css/03-CSS-Fundamentals/CSS Fundamentals.md",
+    "Fundamentos_de_programacion/1. Teoria_basica/TEORIA BASICA.md",
+    "Fundamentos_de_programacion/1. Teoria_basica",
+    "Fundamentos_de_programacion",
     "build_responsible_html_css/03-CSS-Fundamentals/Challenge/style.css",
     "build_responsible_html_css/03-CSS-Fundamentals/Challenge/img/challenges.jpg",
     "build_responsible_html_css/03-CSS-Fundamentals/Challenge/index.html",
@@ -182,11 +186,7 @@
     "build_responsible_html_css/03-CSS-Fundamentals copy/img/challenges.jpg",
     "build_responsible_html_css/03-CSS-Fundamentals copy/img",
     "build_responsible_html_css/03-CSS-Fundamentals copy/content.txt",
-    "build_responsible_html_css/03-CSS-Fundamentals copy/blog.html",
     "build_responsible_html_css/03-CSS-Fundamentals copy/CSS Fundamentals.md",
-    "build_responsible_html_css/03-CSS-Fundamentals copy",
-    "build_responsible_html_css/03-CSS-Fundamentals/CSS Fundamentals.md",
-    "build_responsible_html_css/02-HTML-Fundamentals/index.html",
     "build_responsible_html_css/Chapter_1/chapter1.md",
     "build_responsible_html_css/01- Start/chapter1.md",
     "build_responsible_html_css/09-Omnifood-Optimizations/img/meals/meal-2.jpg",

@@ -3,7 +3,8 @@
 }
 
 body {
-    border: black solid 5px
+    border: black solid 5px;
+    line-height: 1.4;
 }
 
 .title {

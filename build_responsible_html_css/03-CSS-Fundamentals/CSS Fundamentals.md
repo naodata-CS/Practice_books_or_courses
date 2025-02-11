@@ -42,5 +42,12 @@ Last selector in code applies
 
 Inheritance -> If don't have more specific style applied the Class inheritance must be applied like if you write body color red and in rest of your code you don't put another color or class all your p tags must be red.
 
+### THE CSS BOX MODEL
+
+Content: text, images, etc. (width, height)
+Border: A line around the element, still inside of the element
+Padding: Invisible space around the content, inside of the element
+Margin: Space outside of the element, between elements
+Fill area: Area that gets filled with background color or background image]
 
 
