@@ -116,7 +116,7 @@ Steps for program development and execution
 
 
 Stack -> Store variables and local data that are needed during the program execution
-Heap -> Long lists, images. Yo don't know how much data. Flexible storing or dynamic memory allocation. Reserved space in memory. 
+Heap -> Long lists, images. You don't know how much data. Flexible storing or dynamic memory allocation. Free space in memory. 
 Code section -> Machine code section (loading).
 
 

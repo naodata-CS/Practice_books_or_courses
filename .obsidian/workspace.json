@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn_CPP_programming_beginner_to_advanced_Deep_dive_in_CPP/Notes/Skeleton of C++ program.md",
+                "file": "CPP/Learn_CPP_programming_beginner_to_advanced_Deep_dive_in_CPP/Notes/Essential Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skeleton of C++ program"
+              "title": "Essential Fundamentals"
             }
           }
         ]
@@ -167,17 +167,18 @@
   },
   "active": "083b202ad77044d5",
   "lastOpenFiles": [
-    "Learn_CPP_programming_beginner_to_advanced_Deep_dive_in_CPP/01.Essential_fundamentals/practice_3.cpp~",
-    "Learn_CPP_programming_beginner_to_advanced_Deep_dive_in_CPP/01.Essential_fundamentals/practice_3",
-    "Learn_CPP_programming_beginner_to_advanced_Deep_dive_in_CPP/01.Essential_fundamentals/practice_3.cpp",
-    "Learn_CPP_programming_beginner_to_advanced_Deep_dive_in_CPP/01.Essential_fundamentals/practice_2",
-    "Learn_CPP_programming_beginner_to_advanced_Deep_dive_in_CPP/01.Essential_fundamentals/practice_2.cpp~",
-    "Learn_CPP_programming_beginner_to_advanced_Deep_dive_in_CPP/01.Essential_fundamentals/practice2",
-    "Learn_CPP_programming_beginner_to_advanced_Deep_dive_in_CPP/01.Essential_fundamentals/practice_2.cpp",
-    "Learn_CPP_programming_beginner_to_advanced_Deep_dive_in_CPP/01.Essential_fundamentals/practice.cpp~",
-    "Learn_CPP_programming_beginner_to_advanced_Deep_dive_in_CPP/01.Essential_fundamentals/practice",
-    "Learn_CPP_programming_beginner_to_advanced_Deep_dive_in_CPP/01.Essential_fundamentals/practice.cpp",
-    "Learn_CPP_programming_beginner_to_advanced_Deep_dive_in_CPP/practice.cpp",
+    "C/C_Programming_Full_Course_for_free/challenges/challenge2.c~",
+    "C/C_Programming_Full_Course_for_free/challenges/challenge2.c",
+    "C/C_Programming_Full_Course_for_free/challenges/challenge2",
+    "C/C_Programming_Full_Course_for_free/challenges/challenge1.c~",
+    "C/C_Programming_Full_Course_for_free/challenges/challenge1",
+    "C/C_Programming_Full_Course_for_free/challenges/challenge1.c",
+    "C/C_Programming_Full_Course_for_free/challenges/challenge.c~",
+    "CPP/challenges/challenge.cpp~",
+    "CPP/challenges/challenge",
+    "CPP/challenges/challenge.cpp",
+    "Untitled.md",
+    "Learn_CPP_programming_beginner_to_advanced_Deep_dive_in_CPP/01.Essential_fundamentals/data_types.cpp~",
     "Learn_CPP_programming_beginner_to_advanced_Deep_dive_in_CPP/Notes/Essential Fundamentals.md",
     "Learn_CPP_programming_beginner_to_advanced_Deep_dive_in_CPP/Notes/Skeleton of C++ program.md",
     "C_Programming_Full_Course_for_free/01. First_notes.md",
