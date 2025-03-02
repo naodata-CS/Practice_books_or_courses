@@ -119,6 +119,12 @@ Stack -> Store variables and local data that are needed during the program execu
 Heap -> Long lists, images. You don't know how much data. Flexible storing or dynamic memory allocation. Free space in memory. 
 Code section -> Machine code section (loading).
 
+Workflow is 
+
+code -> compiler -> execute
+hello.cpp -> g++ hello.cpp -o hello -> ./hello
+g++ hello.cpp -o hello && ./hello
+
 
 
 
