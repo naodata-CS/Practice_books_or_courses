@@ -125,8 +125,37 @@ code -> compiler -> execute
 hello.cpp -> g++ hello.cpp -o hello -> ./hello
 g++ hello.cpp -o hello && ./hello
 
+How floating point works?
+
+x                             xxxxxxxxxxx               xxxxxxxxxxxxxxx
+sign -> 0 + 1 -   |   Exponent                    | Mantissa -> number                                  
+
+0    10000011    00010010000000000000000
+
+sign -> 0 positive
+exponent -> 131
+mantissa -> 137/128
 
 
+formula (sign)|(1 + mantissa) x 2^(exponent-127)|
+(0)|(1 + 137/128) x 2^(131-127) 
 
+01000000000000000000000
+0 | (1+2^-2) x 2^(128-127)
++(5/4) x 2
+10/4 -> 2.5
 
+00000000000000000000000
+1| (1+2^0) x 2^(e-127)
+128+64+32+16+8+4+2+1
+255
+-2 x 2^(255-127)
+-2 x 2^(128)
 
+11000000000000000000000
+64+32+16+8+4+2+1
+
++|(7/4) x 2^(127-127)
+1.75
+
+IEEE 754
