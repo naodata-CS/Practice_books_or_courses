@@ -159,3 +159,27 @@ formula (sign)|(1 + mantissa) x 2^(exponent-127)|
 1.75
 
 IEEE 754
+
+change values
+
+int a = 5;
+a = 4;
+C++ already knows data type
+
+
+
+convert data types 
+
+cast 
+
+int a = 10;
+int b = 20;
+float c = (float)a + (float)b;
+
+auto value
+
+auto x = 4; // automatic declare integer
+float y = 6.0; // declare float explicitly
+float z = x + (decltype(x))y
+
+
