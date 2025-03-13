@@ -182,4 +182,33 @@ auto x = 4; // automatic declare integer
 float y = 6.0; // declare float explicitly
 float z = x + (decltype(x))y
 
+while(condition) {
+	value
+}
 
+for(start value; condition; steps){
+	value
+	if(specific condition){
+		break;
+	}
+}
+
+gdb
+
+gcc -g -Wall - Werror file.c -o file
+
+gdb ./file or gdb -> file ./file
+
+objdump
+
+run -> Run the program
+br -> Create a breakpoint
+next -> Stop that execution and execute the next line
+list -> Show lines of code that I currently see in the execution
+print -> Show the variable
+
+
+f -> details
+h -> header
+d -> dissasembly
+t -> variables and functions (sysmbols)
