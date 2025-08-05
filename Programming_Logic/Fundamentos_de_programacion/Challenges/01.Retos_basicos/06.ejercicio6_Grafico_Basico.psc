@@ -1,0 +1,34 @@
+Proceso principal
+	Limpiar Pantalla;
+	Escribir "";
+	Escribir "";
+	Escribir "";
+	Escribir "";
+	Escribir "";
+	Escribir "                                                                        PRESIONE UNA TECLA PARA CONTINUAR!!!";
+	Esperar Tecla;
+	Limpiar Pantalla;
+	Escribir "";
+	Escribir "";
+	Escribir "                                                                      D   E   B   O    A   P   R   O   B   A   R";
+	Escribir "";
+	Esperar 50 Milisegundos;
+	Escribir "                                                          WWWWW       WWWWWWW      WWWWWWWW    WWW     WWWWW     WWW";
+	Esperar 200 Milisegundos;
+	Escribir "                                                          WWWW        WWW  WWW     WWWWWWWW    WWW     WWW  WWW   WWW";
+	Esperar 300 Milisegundos;
+	Escribir "                                                          WWWW        WWW   WWW       WW       WWW     WWW   WWW  WWW";
+	Esperar 300 Milisegundos;
+	Escribir "                                                          WWWW        WWW WW WWW      WW       WWW     WWW    WW WWW";
+	Esperar 300 Milisegundos;
+	Escribir "                                                          WWWWWWWWW   WWW    WWW      WW       WWW     WWW    WWWWWW";
+	Esperar 3 Segundos;
+	Limpiar Pantalla;
+	Escribir "";
+	Escribir "";
+	Escribir "";
+	Escribir "";
+	Escribir "";
+	Escribir "                                                                         Presione una TECLA para AVANZAR";
+	Esperar Tecla;
+FinProceso

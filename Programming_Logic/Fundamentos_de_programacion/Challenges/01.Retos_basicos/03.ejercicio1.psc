@@ -1,0 +1,31 @@
+Proceso ejercicio1
+	definir r1, r2, a, b, c como real;
+	Escribir  "Ingresar los numeros a, b y c: ";
+	Escribir "Ingrese a: ";
+	leer a;
+	Escribir "Ingrese b: ";
+	leer b;
+	Escribir "Ingrese c: ";
+	leer c;
+	r1 <- (-b + raiz((b*b)-(4*a*c)))/(2*a);
+	r2 <- (-b - raiz((b*b)-(4*a*c)))/(2*a);
+	Escribir "Los resultados uno y dos son: ", r1, " ", r2;
+	Definir d como logico;
+	definir h, i como real;
+	Escribir "Ingresa el primer numero ";
+	leer h;
+	Escribir "Ingresa el segundo numero ";
+	leer i;
+	d <- ((3+5*8) < 3 Y ((-6/3*4)+2 < 2 )) O (h>i);
+	Escribir "La variable D es ", d;
+	definir e,f,g como real;
+	Escribir "Ingresar dos valores a intercambiar ";
+	Escribir "Ingresar el primer valor ";
+	leer e;
+	Escribir "Ingresar el segundo valor ";
+	leer f;
+	g <- e;
+	e <- f;
+	f <- g;
+	Escribir "e es igual  a ", e, " y f es igual a ", f;	
+FinProceso

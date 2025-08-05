@@ -14,9 +14,14 @@ int main() {
     float gpa = 2.05;
     char grade = 'C';
     char name[] = "Joaquin";
+    printf("%d", x);
+    printf("%d", y);
+    printf("Hello world");
     printf("Hello, %s\n", name);
     printf("Your age is %d years old\n", age);
     printf("Your favorite programming language is %c\n", grade);
     printf("Your gpa is %f\n", gpa);
+    printf("Hello world\n");
+    puts("Thank you");
     return 0;
 }
